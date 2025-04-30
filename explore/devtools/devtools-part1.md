@@ -1,6 +1,6 @@
 1. citylots.json
 2. expose.js:4
-3. 777713 (initally said "disk cache" )
+3. 777713
 4. 85 ms
    
 5. Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
